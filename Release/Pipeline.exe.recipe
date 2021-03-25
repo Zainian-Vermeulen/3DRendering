@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Zainian\Desktop\PipeLine\RenderingPipeline\Release\Pipeline.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Zainian\Desktop\PipeLine\RenderingPipeline\Release\TextureCubePhongPixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Zainian\Desktop\PipeLine\RenderingPipeline\Release\TextureCubePhongVertexShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Zainian\Desktop\PipeLine\RenderingPipeline\Release\NormalMapPhongPixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Zainian\Desktop\PipeLine\RenderingPipeline\Release\NormalMapPhongVertexShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Zainian\Desktop\PipeLine\RenderingPipeline\cubetif.tif</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Zainian\Desktop\PipeLine\RenderingPipeline\space.dds</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Zainian\Desktop\PipeLine\RenderingPipeline\sphereColour.jpg</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Zainian\Desktop\PipeLine\RenderingPipeline\spheretif.tif</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Zainian\Desktop\PipeLine\RenderingPipeline\texture1.jpg</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Zainian\Desktop\PipeLine\RenderingPipeline\texturePurple.png</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

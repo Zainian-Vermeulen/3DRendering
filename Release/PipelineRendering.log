@@ -1,0 +1,20 @@
+﻿C:\Users\Zainian\Desktop\PipeLine\RenderingPipeline\TextureCubePhongPixelShader.hlsl(52,29-96): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\Users\Zainian\Desktop\PipeLine\RenderingPipeline\TextureCubePhongPixelShader.hlsl(52,29-96): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+  
+  compilation object save succeeded; see C:\Users\Zainian\Desktop\PipeLine\RenderingPipeline\Release\TextureCubePhongPixelShader.cso
+  compilation object save succeeded; see C:\Users\Zainian\Desktop\PipeLine\RenderingPipeline\Release\TextureCubePhongVertexShader.cso
+C:\Users\Zainian\Desktop\PipeLine\RenderingPipeline\NormalMapPhongPixelShader.hlsl(51,9-28): warning X3206: implicit truncation of vector type
+C:\Users\Zainian\Desktop\PipeLine\RenderingPipeline\NormalMapPhongPixelShader.hlsl(79,29-96): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\Users\Zainian\Desktop\PipeLine\RenderingPipeline\NormalMapPhongPixelShader.hlsl(79,29-96): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+  
+  compilation object save succeeded; see C:\Users\Zainian\Desktop\PipeLine\RenderingPipeline\Release\NormalMapPhongPixelShader.cso
+  compilation object save succeeded; see C:\Users\Zainian\Desktop\PipeLine\RenderingPipeline\Release\NormalMapPhongVertexShader.cso
+  Material.cpp
+  main.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\Zainian\Desktop\PipeLine\RenderingPipeline\Mesh.cpp(393): warning C4715: 'Mesh::createIndexBuffer': not all control paths return a value
+C:\Users\Zainian\Desktop\PipeLine\RenderingPipeline\Mesh.cpp(231): warning C4715: 'Mesh::createVertexBuffer': not all control paths return a value
+  All 405 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PipelineRendering.vcxproj -> C:\Users\Zainian\Desktop\PipeLine\RenderingPipeline\Release\Pipeline.exe
